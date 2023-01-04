@@ -4,7 +4,7 @@
 
 - 🌱 i’m currently learning **Phoenix Elixir, Java for Android, Ruby on Rails**
 
-- 👨‍💻 some of my projects are available at [http://wet-bulb.github.io](wet-bulb.github.io)
+- 👨‍💻 some of my projects are available at [wet-bulb.github.io](http://wet-bulb.github.io)
 
 - 💬 ask me about **React, TypeScript, Koa**
 
