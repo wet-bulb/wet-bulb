@@ -1,15 +1,15 @@
 <h1 align="center">hi 👋, i'm gelly.</h1>
 <h3 align="center">early career fullstack dev in new orleans, la</h3>
 
-- 🌱 I’m currently learning **Phoenix Elixir, Java for Android, Ruby on Rails**
+- 🌱 i’m currently learning **Phoenix Elixir, Java for Android, Ruby on Rails**
 
 - 👨‍💻 some of my projects are available at [wet-bulb.github.io](wet-bulb.github.io)
 
-- 💬 Ask me about **React, TypeScript, Koa**
+- 💬 ask me about **React, TypeScript, Koa**
 
-- 📫 How to reach me **ng3lica@gmail.com**
+- 📫 my email -> **ng3lica@gmail.com**
 
-- 📄 here's my resume -> [https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing](https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing)
+- 📄 my resume -> [https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing](https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
