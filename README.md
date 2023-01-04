@@ -10,7 +10,7 @@
 
 - 📫 my email -> **ng3lica@gmail.com**
 
-- 📄 my resume -> [https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing](https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing)
+- 📄 my resume -> [g-drive link](https://drive.google.com/file/d/1LRXZB1irlHQTLktVavRudP6d_wdc8ZQn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
