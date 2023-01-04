@@ -6,7 +6,7 @@
 
 - 👨‍💻 some of my projects are available at [wet-bulb.github.io](http://wet-bulb.github.io)
 
-- 💬 ask me about **React, TypeScript, Koa**
+- 💬 ask me about **Python, Flask, React, TypeScript, Koa, Node**
 
 - 📫 my email -> **ng3lica@gmail.com**
 
