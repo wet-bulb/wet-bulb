@@ -2,7 +2,7 @@
 <h3 align="center">early career fullstack dev in new orleans, la</h3>
 <h4 align="center">indie motorcycle mech -> ada developers academy</h3>
 
-- 🌱 i’m currently learning **Phoenix Elixir, Java for Android, Ruby on Rails**
+- 🌱 i’m currently learning **Phoenix Elixir, Java for Android, NLP libraries**
 
 - 👨‍💻 some of my projects are available at [wet-bulb.github.io](http://wet-bulb.github.io)
 
