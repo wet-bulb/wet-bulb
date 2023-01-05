@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, i'm gelly.</h1>
+<h1 align="center">hello world 👋, i'm angelica.</h1>
 <h3 align="center">early career fullstack dev in new orleans, la</h3>
 <h4 align="center">indie motorcycle mech -> ada developers academy</h3>
 
