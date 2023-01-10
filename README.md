@@ -1,6 +1,6 @@
 <h1 align="center">hello world 👋, i'm angelica.</h1>
 <h3 align="center">early career fullstack dev in new orleans, la</h3>
-<h4 align="center">indie motorcycle mech -> ada developers academy</h3>
+<h4 align="center">indie motorcycle and ebike mech terned dev via ada developers academy</h3>
 
 - 🌱 i’m currently learning **Phoenix Elixir, Java for Android, NLP libraries**
 
